@@ -54,7 +54,7 @@ Content-Type: application/json
     "name": "ВкусВилл",
     "imageUrl": "https://petrushka.ru/image/vkusvill.png",
     "delivery": {
-      "type": "express",
+      "type": "fast",
       "minMinutes": 20,
       "maxMinutes": 60
     },
